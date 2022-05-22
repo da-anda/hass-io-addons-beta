@@ -2,7 +2,7 @@
 
 ## 0.4.5 (beta)
 
-- bump KNXD to 0.14.53-patched (on forked knxd repo)
+- bump KNXD to 0.14.53-patched (using fork of knxd at https://github.com/da-anda/knxd)
 - fix communication issues of knxd with certain USB interfaces, like ABB USB/S1.2
 
 ## 0.4.4
