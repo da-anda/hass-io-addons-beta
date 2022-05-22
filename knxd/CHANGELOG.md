@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.5
+
+- bump KNXD to 0.14.53-patched (on own, forked knxd repo)
+- fix communication issues of knxd with certain USB interfaces, like ABB USB/S1.2
+
 ## 0.4.4
 
 - added new experimental interfaces for tpuart-ip and ncn5120-ip
